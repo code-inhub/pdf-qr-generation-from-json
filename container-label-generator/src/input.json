@@ -1,0 +1,33 @@
+{
+  "container_label": {
+    "ship_from": {
+      "name": "XYZ COMPANY",
+      "address": "345 SOUTH STREET, PLYMOUTH, MI 48170",
+      "supplierCode": "12345",
+      "countryOfOrigin": "USA"
+    },
+    "ship_to": {
+      "name": "RIVIAN",
+      "address": "100 N RIVIAN MOTORWAY, NORMAL, IL 61761",
+      "plant": "3100",
+      "sLoc": "NR01"
+    },
+    "asn": "ASN123456",
+    "lpn_1j": "1J5124509271900001",
+    "lotNumber": "123456789012345",
+    "poNumber": "5500000001",
+    "poLineNumber": "00010",
+    "partNumber": "PT00001234-A",
+    "partDescription": "FOG LAMP FR FASCIA, RR",
+    "quantity": "1000",
+    "uom": "EA",
+    "productionDate": "2022-10-22",
+    "expirationDate": "2023-11-26",
+    "qml": "12345",
+    "pcd": "67890",
+    "serialNumber": "SupplierInternal-0001",
+    "qr_code": {
+      "encoded_string": "[)>?06?ASN123456?1J5124509271900001?123456789012345?5500000001?00010?PT00001234-A?FOG LAMP FR FASCIA, RR?1000?EA?2022-10-22?2023-11-26?12345?67890?SupplierInternal-0001??"
+    }
+  }
+}
